@@ -20,4 +20,24 @@ Phần mềm:
   - Phần mềm thiết kế đồ họa: Adobe Photoshop, CorelDRAW.
   - Trình duyệt web: Google Chrome, Mozilla Firefox
   - Phần mềm lập trình: Visual Studio, PyCharm.
+ 
+Các loại máy tính:
+- Máy tính cá nhân (PC):
+  - Máy tính để bàn (Desktop): Thường được sử dụng tại nhà hoặc văn phòng, có cấu hình mạnh và dễ nâng cấp.
+  - Máy tính xách tay (Laptop): Thiết kế nhỏ gọn, dễ dàng di chuyển. Thích hợp cho người dùng cần làm việc di động.
+- Máy tính bảng (Tablet)
+- Máy trạm (Workstation)
+- Máy tính nhúng (Embedded Computer)
+- Máy chủ (Server)
+- Siêu máy tính (Supercomputer)
+- Máy tính lượng tử (Quantum Computer)
+
+## Chương 2: Biểu diễn thông tin và hệ thông số
+- Thông tin, dữ liệu trong thế giới thực được số hóa để có thể “nhập vào” và được xử lý bởi máy tính:
+  - Hình ảnh
+  - Âm thanh
+  - Chữ viết
+- Số nhị phân và vấn đề biểu diễn dữ liệu trong máy tính:
+  - Sử dụng 2 ký hiệu “0”, ”1” để biểu diễn với giá trị tương ứng là 0 và 1
+  - Bit nhị phân
     
