@@ -12,6 +12,7 @@ Phần cứng:
   - Hệ thống lưu trữ dữ liệu/Ổ cứng (HDD/SSD): Là nơi lưu trữ dữ liệu lâu dài, bao gồm hệ điều hành, ứng dụng và tài liệu. SSD nhanh hơn HDD nhưng thường có dung lượng thấp hơn.
   - Bo mạch chủ (motherboard): : Là bảng mạch chính kết nối tất cả các thành phần phần cứng lại với nhau và cho phép chúng giao tiếp.
   - Thiết bị ngoại vi: Bao gồm bàn phím, chuột, màn hình, máy in và các thiết bị khác giúp người dùng tương tác với máy tính.
+
 Phần mềm:
 - Hệ điều hành (Operating System - OS): Là phần mềm cơ bản quản lý phần cứng và phần mềm khác, cung cấp giao diện cho người dùng. Ví dụ: Windows, macOS, Linux.
 - Phần mềm ứng dụng (Application Software): Là các chương trình phục vụ các nhu cầu cụ thể của người dùng, bao gồm:
